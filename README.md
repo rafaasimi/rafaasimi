@@ -13,7 +13,14 @@
 
 <br>
 
-- 🔭 Não estou trabalhando no momento, em busca de novas oportunidades.
-- 🌱 Atualmente estou estudando tecnologias web front-end.
-- ⚡ Tecnologias: HTML5, CSS3, Javascript.
-- 💬 Quer conhecer um pouco mais sobre mim? Conheça minhas redes sociais ou entre em contato.
+<dt><strong>🔭 Você está trabalhando?</strong></dt>
+<dd>Não estou trabalhando no momento, em busca de novas oportunidades.</dd>
+
+<dt><strong>🌱 O que você faz atualmente?</strong></dt>
+<dd>Atualmente estou estudando tecnologias web front-end.</dd>
+
+<dt><strong>⚡ Quais linguagens você conhece?</strong></dt>
+<dd>HTML5, CSS3, JavaScript.</dd>
+
+<dt><strong>💬 Como posso te contatar?</strong></dt>
+<dd>Conheça minhas redes sociais ou entre em contato através do meu e-mail ou telegram.</dd>
