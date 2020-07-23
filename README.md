@@ -1,6 +1,6 @@
 <h3 align='center'>Olá a todos 👋</h3>
 
-<p align='center'><img width='400' src="logo.png"/></p>
+<p align='center'><img width='400' src="https://raw.githubusercontent.com/rafaasimi/rafaasimi/master/logo.png"/></p>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/rafaelzorzenon" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelzorzenon"/></a>
@@ -11,7 +11,7 @@
   <a href="https://t.me/rafaasimi" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0E8ED4?style=flat-square&logo=Telegram&logoColor=white&link=mailto:rafaasimi@hotmail.com"/></a>
 </p>
 
-<br><br>
+<br>
 
 - 🔭 Não estou trabalhando no momento, em busca de novas oportunidades.
 - 🌱 Atualmente estou estudando tecnologias web front-end.
