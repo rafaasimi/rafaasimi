@@ -14,7 +14,7 @@
 <br>
 
 <dt><strong>🔭 Você está trabalhando?</strong></dt>
-<dd>Não estou trabalhando no momento, em busca de novas oportunidades.</dd>
+<dd>Não estou trabalhando no momento, em busca de novas oportunidades na área de desenvolvimento.</dd>
 
 <dt><strong>🌱 O que você faz atualmente?</strong></dt>
 <dd>Atualmente estou estudando tecnologias web front-end.</dd>
