@@ -22,5 +22,8 @@
 <dt><strong>⚡ Quais linguagens você conhece?</strong></dt>
 <dd>HTML5, CSS3, JavaScript.</dd>
 
+<dt><strong>ℹ️ Você pode me ajudar?</strong></dt>
+<dd>Claro, posso te ajudar com as linguagens que conheço e um pouco sobre design.</dd>
+
 <dt><strong>💬 Como posso te contatar?</strong></dt>
 <dd>Conheça minhas redes sociais ou entre em contato através do meu e-mail ou telegram.</dd>
