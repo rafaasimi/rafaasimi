@@ -27,7 +27,7 @@
 
 <dt><strong>💬 Como posso te contatar?</strong></dt>
 <dd>Conheça minhas redes sociais ou entre em contato através do meu e-mail ou telegram.</dd>
-
+<br>
 <p align="center">
 <a href="https://github.com/rafaasimi">
 <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=rafaasimi&show_icons=true" />
