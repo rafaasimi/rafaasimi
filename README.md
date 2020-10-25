@@ -17,13 +17,17 @@
 <dd>Atualmente estou estudando tecnologias web front-end.</dd>
 
 <dt><strong>⚡ Quais linguagens você conhece?</strong></dt>
-<dd>HTML5, CSS3, JavaScript.</dd>
+<dd>HTML5, CSS3, JavaScript.
+<img src="https://img.shields.io/badge/-HTML5-E96228?style=flat-square&labelColor=DD4B25&logo=html5&logoColor=FFF"/>
+<img src="https://img.shields.io/badge/-CSS3-1C84C1?style=flat-square&labelColor=196FB4&logo=css3&logoColor=FFF"/>
+<img src="https://img.shields.io/badge/-JAVASCRIPT-F2BF22?style=flat-square&labelColor=E7A42B&logo=javascript&logoColor=FFF"/>
+</dd>
 
 <dt><strong>ℹ️ Você pode me ajudar?</strong></dt>
 <dd>Claro, posso te ajudar com as linguagens que conheço e um pouco sobre design.</dd>
 
 <dt><strong>💬 Como posso te contatar?</strong></dt>
-<dd>Conheça minhas redes sociais ou entre em contato através do meu e-mail ou telegram.</dd>
+<dd>Fique a vontade para em chamar no LinkedIn.</dd>
 <br>
 <p align="center">
 <a href="https://github.com/rafaasimi">
