@@ -11,7 +11,7 @@
 <br>
 
 <dt><strong>🔭 Você está trabalhando?</strong></dt>
-<dd>Sim, hoje trabalho como desenvolvedor na <a href="https://www.compasso.com.br/" target="_blank">Compasso UOL</a></dd>
+<dd>Sim, hoje estou trabalhando como desenvolvedor utilizando principalmente JavaScript e KnockoutJS.</dd>
 
 <dt><strong>🌱 O que você faz atualmente?</strong></dt>
 <dd>Atualmente estou estudando tecnologias web front-end.</dd>
@@ -27,7 +27,7 @@
 <dd>Claro, posso te ajudar com as linguagens que conheço e um pouco sobre design.</dd>
 
 <dt><strong>💬 Como posso te contatar?</strong></dt>
-<dd>Fique a vontade para em chamar no LinkedIn.</dd>
+<dd>Fique a vontade para me chamar no LinkedIn.</dd>
 <br>
 <p align="center">
 <a href="https://github.com/rafaasimi">
