@@ -20,7 +20,8 @@
 <dd>
 <img src="https://img.shields.io/badge/-HTML5-E96228?style=flat-square&labelColor=DD4B25&logo=html5&logoColor=FFF"/>
 <img src="https://img.shields.io/badge/-CSS3-1C84C1?style=flat-square&labelColor=196FB4&logo=css3&logoColor=FFF"/>
-<img src="https://img.shields.io/badge/-JAVASCRIPT-F2BF22?style=flat-square&labelColor=E7A42B&logo=javascript&logoColor=FFF"/>
+<img src="https://img.shields.io/badge/-JavaScript-F2BF22?style=flat-square&labelColor=E7A42B&logo=javascript&logoColor=FFF"/>
+<img src="https://img.shields.io/badge/-React-48CEF7?style=flat-square&labelColor=17B6E7&logo=react&logoColor=FFF"/>
 </dd>
 
 <dt><strong>ℹ️ Você pode me ajudar?</strong></dt>
