@@ -11,7 +11,7 @@
 <br>
 
 <dt><strong>🔭 Você está trabalhando?</strong></dt>
-<dd>Sim, hoje estou trabalhando como desenvolvedor utilizando principalmente JavaScript e KnockoutJS.</dd>
+<dd>Sim, hoje estou trabalhando como desenvolvedor front-end utilizando principalmente HTML, CSS e JavaScript.</dd>
 
 <dt><strong>🌱 O que você faz atualmente?</strong></dt>
 <dd>Atualmente estou estudando tecnologias web front-end.</dd>
