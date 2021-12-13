@@ -1,38 +1,35 @@
-<h3 align='center'>Olá a todos 👋</h3>
+# Hi everyone 🖖🏻
 
-<p align='center'><img src="https://raw.githubusercontent.com/rafaasimi/rafaasimi/master/logo.svg"/></p>
+## 🚀 About Me
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/rafaelzorzenon" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelzorzenon"/></a>
-  <a href="https://github.com/rafaasimi" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaasimi"/></a>
-  <a href="https://twitter.com/rafaasimi" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rafaasimi"/></a>
-</p>
+I have a degree in Computer Science and currently working as a Web Front-end Developer. I am always studying and learning new technologies. Here are all my projects made in courses and personal projects.
 
 <br>
 
-<dt><strong>🔭 Você está trabalhando?</strong></dt>
-<dd>Sim, hoje estou trabalhando como desenvolvedor front-end utilizando principalmente HTML, CSS e JavaScript.</dd>
+## 🔗 My Links
 
-<dt><strong>🌱 O que você faz atualmente?</strong></dt>
-<dd>Atualmente estou estudando tecnologias web front-end.</dd>
-
-<dt><strong>⚡ Quais linguagens você conhece?</strong></dt>
-<dd>
-<img src="https://img.shields.io/badge/-HTML5-E96228?style=flat-square&labelColor=DD4B25&logo=html5&logoColor=FFF"/>
-<img src="https://img.shields.io/badge/-CSS3-1C84C1?style=flat-square&labelColor=196FB4&logo=css3&logoColor=FFF"/>
-<img src="https://img.shields.io/badge/-JavaScript-F2BF22?style=flat-square&labelColor=E7A42B&logo=javascript&logoColor=FFF"/>
-<img src="https://img.shields.io/badge/-React-48CEF7?style=flat-square&labelColor=17B6E7&logo=react&logoColor=FFF"/>
-</dd>
-
-<dt><strong>ℹ️ Você pode me ajudar?</strong></dt>
-<dd>Claro, posso te ajudar com as linguagens que conheço e um pouco sobre design.</dd>
-
-<dt><strong>💬 Como posso te contatar?</strong></dt>
-<dd>Fique a vontade para me chamar no LinkedIn.</dd>
-<br>
-<p align="center">
-<a href="https://github.com/rafaasimi">
-<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=rafaasimi&show_icons=true" />
-<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaasimi&layout=compact" />
+<a href="https://www.linkedin.com/in/rafaelzorzenon/" target="_new">
+<img src="https://img.shields.io/badge/Linkedin-linkedin?color=000&labelColor=0A66C2&style=for-the-badge&logo=linkedin" />
 </a>
-</p>
+<a href="https://rafaelsimionato.dev/" target="_new">
+<img src="https://img.shields.io/badge/Portfolio-portfolio?color=000&labelColor=159DD6&style=for-the-badge&logo=coffeescript" />
+</a>
+
+<br>
+
+## 🛠 Skills
+
+<img src="https://img.shields.io/badge/html5-html5?color=000&labelColor=E96228&style=for-the-badge&logo=html5&logoColor=FFF" />
+<img src="https://img.shields.io/badge/css3-css3?color=000&labelColor=196FB4&style=for-the-badge&logo=css3&logoColor=FFF" />
+<img src="https://img.shields.io/badge/javascript-javascript?color=000&labelColor=E7A42B&style=for-the-badge&logo=javascript&logoColor=FFF" />
+<img src="https://img.shields.io/badge/react-react?color=000&labelColor=17B6E7&style=for-the-badge&logo=react&logoColor=FFF" />
+<img src="https://img.shields.io/badge/nextjs-nextjs?color=000&labelColor=2C2C2C&style=for-the-badge&logo=nextdotjs&logoColor=FFF" />
+
+<br>
+
+<div style="display: flex; gap: 8px">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafaasimi&show_icons=true&theme=github_dark" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaasimi&layout=compact&theme=github_dark&hide=php" />
+<div>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rafaasimi" />
