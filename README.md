@@ -25,6 +25,7 @@ I have a degree in Computer Science and currently working as a Web Front-end Dev
 <img src="https://img.shields.io/badge/javascript-javascript?color=000&labelColor=E7A42B&style=for-the-badge&logo=javascript&logoColor=FFF" />
 <img src="https://img.shields.io/badge/react-react?color=000&labelColor=17B6E7&style=for-the-badge&logo=react&logoColor=FFF" />
 <img src="https://img.shields.io/badge/nextjs-nextjs?color=000&labelColor=2C2C2C&style=for-the-badge&logo=nextdotjs&logoColor=FFF" />
+<img src="https://img.shields.io/badge/angular-angular?color=000&labelColor=E23237&style=for-the-badge&logo=angular&logoColor=FFF" />
 </div>
   
 <br>
