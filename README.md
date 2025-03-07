@@ -27,11 +27,12 @@
     <img src="https://img.shields.io/badge/JavaScript-javascript?color=000&labelColor=E7A42B&style=flat&logo=javascript&logoColor=FFF" />
     <img src="https://img.shields.io/badge/TypeScript-typescript?color=000&labelColor=2F74C0&style=flat&logo=typescript&logoColor=FFF" />
     <img src="https://img.shields.io/badge/Sass-sass?color=000&labelColor=C26191&style=flat&logo=sass&logoColor=FFF" />
+    <img src="https://img.shields.io/badge/TailwindCSS-tailwindcss?color=000&labelColor=00BCFF&style=flat&logo=tailwindcss&logoColor=FFF" />
     <img src="https://img.shields.io/badge/ReactJS-react?color=000&labelColor=17B6E7&style=flat&logo=react&logoColor=FFF" />
     <img src="https://img.shields.io/badge/NextJS-nextjs?color=000&labelColor=2C2C2C&style=flat&logo=nextdotjs&logoColor=FFF" />
     <img src="https://img.shields.io/badge/Angular-angular?color=000&labelColor=E23237&style=flat&logo=angular&logoColor=FFF" />
 </div>
-  
+
 <br>
 
 <div style="display: flex; gap: 16px">
